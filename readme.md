@@ -14,7 +14,7 @@ Pagina hecha con tailwindcss
 
 ## Deploy
 
-[Link a la pagina]()
+[Link a la pagina](https://amazing-quokka-5a4695.netlify.app/)
 [Link a la pagina marcada](https://64ea70b880904f7814691e7e--marvelous-cobbler-8d26bd.netlify.app/)
 
 ## Correr Tailwind
